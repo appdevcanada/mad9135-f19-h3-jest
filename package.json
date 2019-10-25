@@ -1,0 +1,16 @@
+{
+  "name": "mad9135-f19-h3-jest",
+  "version": "1.0.0",
+  "description": "Javascript Testing",
+  "main": "index.js",
+  "repository": "https://github.com/mora0199/mad9135-f19-h3-jest.git",
+  "author": "Luis Henrique Souza <mora0199@algonquinlive.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
